@@ -2,6 +2,8 @@
 
 ## Project info
 
+- live web hosted here :
+
 **URL**: https://lovable.dev/projects/e4221856-c068-43a1-94dc-3df332ea0ded
 
 ## How can I edit this code?
